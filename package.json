@@ -1,0 +1,31 @@
+{
+  "name": "react-native-bottom-toast",
+  "version": "1.0.0",
+  "description": "React native toast that works even on disable notifications",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pragadeesh0106@github.com/pragadeesh0106/react-native-bottom-toast.git"
+  },
+  "keywords": [
+    "\"react-native\"",
+    "\"react\"",
+    "\"toast\"",
+    "\"notification\"",
+    "\"bottom\"",
+    "\"android\"",
+    "\"ios\""
+  ],
+  "author": "pragadeesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragadeesh0106/react-native-bottom-toast/issues"
+  },
+  "homepage": "https://github.com/pragadeesh0106/react-native-bottom-toast#readme"
+}
