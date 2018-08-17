@@ -1,6 +1,6 @@
 {
   "name": "react-native-bottom-toast",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "React native toast that works even on disable notifications",
   "main": "index.js",
   "directories": {
