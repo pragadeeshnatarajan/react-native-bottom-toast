@@ -11,21 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://pragadeesh0106@github.com/pragadeesh0106/react-native-bottom-toast.git"
+    "url": "git+https://rubbishCoder@github.com/rubbishCoder/react-native-bottom-toast.git"
   },
   "keywords": [
-    "\"react-native\"",
-    "\"react\"",
-    "\"toast\"",
-    "\"notification\"",
-    "\"bottom\"",
-    "\"android\"",
-    "\"ios\""
+    "react-native",
+    "react",
+    "toast",
+    "notification",
+    "bottom",
+    "android",
+    "ios"
   ],
   "author": "pragadeesh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pragadeesh0106/react-native-bottom-toast/issues"
+    "url": "https://github.com/rubbishCoder/react-native-bottom-toast/issues"
   },
-  "homepage": "https://github.com/pragadeesh0106/react-native-bottom-toast#readme"
+  "homepage": "https://github.com/rubbishCoder/react-native-bottom-toast#readme"
 }
