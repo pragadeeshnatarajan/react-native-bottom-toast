@@ -1,6 +1,6 @@
 {
   "name": "react-native-bottom-toast",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "React native toast that works even on disable notifications",
   "main": "index.js",
   "directories": {
@@ -27,5 +27,12 @@
   "bugs": {
     "url": "https://github.com/rubbishCoder/react-native-bottom-toast/issues"
   },
-  "homepage": "https://github.com/rubbishCoder/react-native-bottom-toast#readme"
+  "homepage": "https://github.com/rubbishCoder/react-native-bottom-toast#readme",
+  "dependencies": {
+		"prop-types": "^15.6.0"
+	},
+  "peerDependencies": {
+    "react-native": ">=0.20.0",
+    "prop-types": "^15.5.7"
+  }
 }
