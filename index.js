@@ -1,11 +1,3 @@
-/**
- * react-native-bottom-toast
- * https://github.com/crazycodeboy/react-native-bottom-toast
- * Email:crazycodeboy@gmail.com
- * Blog:http://jiapenghui.com
- * @flow
- */
-
 import React, { Component } from 'react';
 import {
     StyleSheet,
